@@ -21,7 +21,7 @@ app.post("/webhook", async (req, res) => {
             messages: [
               {
                 type: "text",
-                text: "嗨～我是小白，有什麼可以幫你？😄"
+                text: "汪~"
               }
             ]
           },
